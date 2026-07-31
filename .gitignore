@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Java
+*.class
+target/
+out/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS / Editor
+.DS_Store
+.vscode/
+*.log
